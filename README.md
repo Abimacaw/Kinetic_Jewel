@@ -1,4 +1,4 @@
-# Kinetic Jewel Automation
+# Kinetic Jewel 
 
 This repository contains the code and instructions for the **Kinetic Jewelry** project, which creates controlled movements in a small aesthetic gold pendant using BLE (Bluetooth Low Energy). The pendant is equipped with a small coreless micro DC motor, controlled by an ESP32C3 microcontroller, and utilizes a DRV8833 motor driver. The entire system is controlled via a mobile app through BLE.
 
