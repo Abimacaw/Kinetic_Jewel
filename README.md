@@ -51,3 +51,6 @@ Once connected via BLE, the pendant accepts the following commands:
 
 - Pair your mobile app with the pendant via BLE.
 - Send the appropriate BLE commands to control the various movements of the pendant.
+
+### 🌐 Product Video Link
+Check out Product video for more details: [Kinetic_Jewel](https://drive.google.com/drive/u/1/folders/1DMxZMim0aalBf3YvsXd7eT-y7RIN8Si7)
